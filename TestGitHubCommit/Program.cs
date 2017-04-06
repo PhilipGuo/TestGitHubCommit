@@ -9,8 +9,11 @@ namespace TestGitHubCommit
     {
         static void Main(string[] args)
         {
+            // test add
             Console.Write("this is an application to test commition of GitHub.");
             Console.Read();
+            // test modify
+            Console.ReadLine();
         }
     }
 }
